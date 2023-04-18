@@ -1,2 +1,2 @@
-# Analisis-de-los-Estereotipos-Sociales
+# Analisis de los Estereotipos Sociales
 Análisis de los Estereotipos Sociales
