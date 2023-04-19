@@ -15,7 +15,7 @@ modelos e hipótesis_](https://dialnet.unirioja.es/servlet/articulo?codigo=47949
                                                  
 ![](https://decanaturadeestudiantes.uniandes.edu.co/sites/default/files/Deportes/Banner/Diversidad/como-puedes-desafiar-los-estereotipos-de-genero-640x480.jpg)
 
-**Figura 1**. Representación grafica de los estereotipos de género normalizados sobre una persona o un grupo. Imagen tomada de [Cómo puedes desafiar los estereotipos de género-Universidad de los Andes](https://decanaturadeestudiantes.uniandes.edu.co/como-puedes-desafiar-los-estereotipos-de-genero)
+**Figura 1**. Representación gráfica de los estereotipos de género normalizados sobre una persona o un grupo. Imagen tomada de [Cómo puedes desafiar los estereotipos de género-Universidad de los Andes](https://decanaturadeestudiantes.uniandes.edu.co/como-puedes-desafiar-los-estereotipos-de-genero)
 
   En relación a esto, con los estereotipos se da una búsqueda de una identidad positiva que fomente la visión positiva de nuestro grupo en comparación con los otros -produciéndose **_“favoritismo endogrupal”_**.  También nos permite justificar acciones  contra otros grupos, esto lo podemos analizar tambien desde la psicología social, ya que esta se encarga de  analizar los procesos de índole psicológica que influyen en el modo en que funciona una sociedad, así como la forma en que se llevan a cabo las interacciones sociales. Es decir, que son los procesos sociales los que modulan la personalidad y las características de cada persona
 
@@ -26,8 +26,7 @@ Para  Regader (2015):
 ## Identidad Social
 
 Para comprender mejor el contexto de los estereotipos y su presencia en las personas, es necesario conocer cómo influye la identidad social en estos, siendo más específicos como influye el sentimiento de pertenencia en ella. La teoría de la identidad social sugiere que las personas tienden a maximizar su autoestima, identificándose o concordando con los grupos sociales específicos a los que pertenecen, intentando ser incluidos y valorados de forma positiva, en comparación a los otros grupos. Es aquí donde, de acuerdo a Gomez (2006), entre la categorización como la tendencia de dividir el mundo en el endogrupo y los exogrupos.
-
-[![Identidad social](https://user-images.githubusercontent.com/129440797/232949870-ca92f3c3-bf55-4ed5-b7da-63ced898e62b.jpeg)
+[![Representación gráfica del término identidad social](https://user-images.githubusercontent.com/129440797/232949870-ca92f3c3-bf55-4ed5-b7da-63ced898e62b.jpeg)
 ]
 
 
