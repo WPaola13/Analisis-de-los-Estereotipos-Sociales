@@ -56,7 +56,7 @@ Los ejemplos anteriores, permiten observar como una vez formados y adquiridos lo
 
 Atenas, T. L, Ciampi Díaz, E, Venegas Bustos, J; Uribe San Martín, R. y Cárcamo Rodríguez, C. (2019). Cognición Social: Conceptos y Bases Neurales. Revista chilena de neuro-psiquiatría, 57(4), 365-376.[https://dx.doi.org/10.4067/S0717-92272019000400365](https://dx.doi.org/10.4067/S0717-92272019000400365)
 
-Bazán, J. (2019). Moda y estereotipos: Rosa y celeste: por qué estos colores identificaron durante décadas a nenas y varones. Clarín.Sociedad. Recuperado de[(https://www.clarin.com/sociedad/rosa-celeste-colores-identificaron-decadas-nenas-varones_0_l7RaCUoxn.html)]
+Bazán, J. (2019). Moda y estereotipos: Rosa y celeste: por qué estos colores identificaron durante décadas a nenas y varones. Clarín.Sociedad. Recuperado de[](https://www.clarin.com/sociedad/rosa-celeste-colores-identificaron-decadas-nenas-varones_0_l7RaCUoxn.html)
 
 Castejón Costa, J. L. (2016). Psicología y Educación: Presente y Futuro. Construcción de género y estereotipos. Un estudio de las actitudes hacia la diversidad de género Alicante: ACIPE, 868-877. Recuperado de [https://rua.ua.es/dspace/bitstream/10045/63764/1/Psicologia-y-educacion_102.pdf](https://rua.ua.es/dspace/bitstream/10045/63764/1/Psicologia-y-educacion_102.pdf)
 
