@@ -1,8 +1,6 @@
-\begin{center}
-# Análisis de los Estereotipos Sociales
-\end{center}
+ # Análisis de los Estereotipos Sociales
 
-> Desde tiempos inmemorables, el fenómeno de los estereotipos, ha estado presente en nuestra sociedad, Mackie (1973) los define como _"creencias populares sobre los atributos que caracterizan a un grupo social y sobre las que hay un acuerdo básico"_. Se puede decir que los estereotipos funcionan como un agente activo que facilita el ordenamiento y la comprensión de la información, en otras palabras, nos ayudan a comprender el mundo de manera simplificada, ordenada, coherente. Asimismo, los estereotipos contribuyen  a la formación de la categorización social, en relación a esto, Tajfel H. (1984), menciona que los estereotipos son necesidades individuales de organización del medio, cuya función es comprender los acontecimientos para justificar los comportamientos frente a otro grupo (justificación social), clarificando o acentuando las diferencias, afín de establecer una distinción positiva en favor del propio grupo. 
+Desde tiempos inmemorables, el fenómeno de los estereotipos, ha estado presente en nuestra sociedad, Mackie (1973) los define como _"creencias populares sobre los atributos que caracterizan a un grupo social y sobre las que hay un acuerdo básico"_. Se puede decir que los estereotipos funcionan como un agente activo que facilita el ordenamiento y la comprensión de la información, en otras palabras, nos ayudan a comprender el mundo de manera simplificada, ordenada, coherente. Asimismo, los estereotipos contribuyen  a la formación de la categorización social, en relación a esto, Tajfel H. (1984), menciona que los estereotipos son necesidades individuales de organización del medio, cuya función es comprender los acontecimientos para justificar los comportamientos frente a otro grupo (justificación social), clarificando o acentuando las diferencias, afín de establecer una distinción positiva en favor del propio grupo. 
 
 ## Antecedentes
 
@@ -17,10 +15,18 @@ modelos e hipótesis_](https://dialnet.unirioja.es/servlet/articulo?codigo=47949
                                                  
 ![Engelbart|50](https://decanaturadeestudiantes.uniandes.edu.co/sites/default/files/Deportes/Banner/Diversidad/como-puedes-desafiar-los-estereotipos-de-genero-640x480.jpg)
 
-**Figura 1**. Representación grafica de los estereotipos de género normalizados sobre una persona o un grupo. Imagen tomada de 
+**Figura 1**. Representación grafica de los estereotipos de género normalizados sobre una persona o un grupo. Imagen tomada de \_[Cómo puedes desafiar los estereotipos de género-Universidad de los Andes]\_ (https://decanaturadeestudiantes.uniandes.edu.co/como-puedes-desafiar-los-estereotipos-de-genero)
 
-\_[Cómo puedes desafiar los estereotipos de género-Universidad de los Andes]\_ (https://decanaturadeestudiantes.uniandes.edu.co/como-puedes-desafiar-los-estereotipos-de-genero)
+  En relación a esto, con los estereotipos se da una búsqueda de una identidad positiva que fomente la visión positiva de nuestro grupo en comparación con los otros -produciéndose **_“favoritismo endogrupal”_**.  También nos permite justificar acciones  contra otros grupos, esto lo podemos analizar tambien desde la psicología social, ya que esta se encarga de  analizar los procesos de índole psicológica que influyen en el modo en que funciona una sociedad, así como la forma en que se llevan a cabo las interacciones sociales. Es decir, que son los procesos sociales los que modulan la personalidad y las características de cada persona
 
+Para  Regader (2015):
+> Para  Regader (2015) la psicología social tiene como objeto de estudio, la influencia de las relaciones sociales sobre la conducta y los estados mentales de las personas.
+> En este sentido, la psicología social estudia los procesos psicológicos y sociales observables, lo cual ayuda a entender cómo actuamos los individuos cuando formamos parte de grupos o sociedades. La psicología social también engloba el estudio de las actitudes personales y la influencia (bidireccional) con el pensamiento social.
 
- 
-  En relación a esto, con los estereotipos se da una búsqueda de una identidad positiva que fomente la visión positiva de nuestro grupo en comparación con los otros -produciéndose “favoritismo endogrupal”.  También nos permite justificar acciones  contra otros grupos, esto lo podemos analizar tambien desde la psicología social es una rama de la psicología que se encarga de  analizar los procesos de índole psicológica que influyen en el modo en que funciona una sociedad, así como la forma en que se llevan a cabo las interacciones sociales. Es decir, que son los procesos sociales los que modulan la personalidad y las características de cada persona
+MACKIE, M.M. (1973): «Arriving at Truth by Definition:
+Case of Stereotype Innacuracy», en Social Problems, 20;
+431-447.
+
+Autores: Vanessa Smith Castro
+Localización: Actualidades en Psicología, ISSN-e 2215-3535, ISSN 0258-6444, Vol. 20, Nº. 107, 2006 (Ejemplar dedicado a: Actualidades en Psicología), págs. 45-71
+Idioma: español
