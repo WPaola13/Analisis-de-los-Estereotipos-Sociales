@@ -75,4 +75,4 @@ Palos, J. (5/3/2018). Identidad y sentimientos de pertenencia. Convivencia y edu
 Regader, B. (2015).Qué es la psicología social. Psicología y mente. Disponible en [https://psicologiaymente.com/social/psicologia-social](https://psicologiaymente.com/social/psicologia-social)
 
 Smith Castro, V. (2006).La psicología social de las relaciones intergrupales. Actualidades en Psicología,  
-20(107), 45-71
+20(107), 45-71 
