@@ -4,4 +4,10 @@ Desde tiempos inmemorables, el fenómeno de los estereotipos, ha estado presente
 
 ## Parte I: Antecedentes
 
-El término **_"estereotipo"_** fue introducido por primera vez en la literatura en 1922 por Lippman como: las _"imágenes en nuestras cabezas"_. Desde entonces, los estereotipos son comúnmente definidos como: las creencias consensuadas sobre los atributos de un grupo social y sus miembros [Smith Castro Vanesa](https://dialnet.unirioja.es/servlet/articulo?codigo=4794922),(2006).
+El término **_"estereotipo"_** fue introducido por primera vez en la literatura en 1922 por Lippman como: las _"imágenes en nuestras cabezas"_. En relación con esto, Smith Castro Vanesa, en su articulo [La psicología social de las relaciones intergrupales,
+modelos e hipótesis](https://dialnet.unirioja.es/servlet/articulo?codigo=4794922) define los estereotipos como: las creencias consensuadas sobre los atributos de un grupo social y sus miembros. A partir de esto, es importante definir **¿qué entendemos por grupo social?** Según Turner et al, (1987), un grupo social es:
+> un conjunto de personas que se clasifican a sí mismas como miembros de la misma categoría,
+> se identifican con esta categoría y están dispuestas a actuar de acuerdo a las normas de tal categoría.
+
+Los estereotipos se forman por ideas, prejuicios, actitudes, creencias y opiniones que son impuestas por el medio social y cultural, los cuales se aplican de forma general a todas las personas pertenecientes a un grupo, ya sea por categoría de status, nacionalidad, etnia, edad, sexo, orientación sexual, procedencia geográfica, entre otras. Además, es importante resaltar que los estereotipos pueden desarrollarse inconscientemente dependiendo del ambiente en que crecen las personas.
+
