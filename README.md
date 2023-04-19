@@ -1,4 +1,4 @@
- # Análisis de los Estereotipos Sociales
+# Análisis de los Estereotipos Sociales
 
 Desde tiempos inmemorables, el fenómeno de los estereotipos, ha estado presente en nuestra sociedad, Mackie (1973) los define como _"creencias populares sobre los atributos que caracterizan a un grupo social y sobre las que hay un acuerdo básico"_. Se puede decir que los estereotipos funcionan como un agente activo que facilita el ordenamiento y la comprensión de la información, en otras palabras, nos ayudan a comprender el mundo de manera simplificada, ordenada, coherente. 
 
@@ -54,7 +54,7 @@ Los ejemplos anteriores, permiten observar como una vez formados y adquiridos lo
 
 ## Referencias Bibliográficas
 
-Atenas, T. L, Ciampi Díaz, E, Venegas Bustos, J; Uribe San Martín, R. y Cárcamo Rodríguez, C. (2019). Cognición Social: Conceptos y Bases Neurales. Revista chilena de neuro-psiquiatría, 57(4), 365-376. https://dx.doi.org/10.4067/S0717-92272019000400365
+Atenas, T. L, Ciampi Díaz, E, Venegas Bustos, J; Uribe San Martín, R. y Cárcamo Rodríguez, C. (2019). Cognición Social: Conceptos y Bases Neurales. Revista chilena de neuro-psiquiatría, 57(4), 365-376. [](https://dx.doi.org/10.4067/S0717-92272019000400365)
 
 Bazán, J. (2019). Moda y estereotipos: Rosa y celeste: por qué estos colores identificaron durante décadas a nenas y varones. Clarín.Sociedad. Recuperado de https://www.clarin.com/sociedad/rosa-celeste-colores-identificaron-decadas-nenas-varones_0_l7RaCUoxn.html
 
