@@ -1,6 +1,6 @@
    #                             Análisis de los Estereotipos Sociales
 
-   Desde tiempos inmemorables, el fenómeno de los estereotipos, ha estado presente en nuestra sociedad, Mackie (1973) los define como _"Creencias populares sobre los atributos que caracterizan a un grupo social y sobre las que hay un acuerdo básico"_. Se puede decir que los estereotipos funcionan como un agente activo que facilita el ordenamiento y la comprensión de la información, en otras palabras, nos ayudan a comprender el mundo de manera simplificada, ordenada, coherente. Asimismo, los estereotipos contribuyen  a la formación de la categorización social, en relación a esto, Tajfel H. (1984), menciona que los estereotipos son necesidades individuales de organización del medio, cuya función es comprender los acontecimientos para justificar los comportamientos frente a otro grupo (justificación social), clarificando o acentuando las diferencias, afín de establecer una distinción positiva en favor del propio grupo. 
+ >Desde tiempos inmemorables, el fenómeno de los estereotipos, ha estado presente en nuestra sociedad, Mackie (1973) los define como _"creencias populares sobre los atributos que caracterizan a un grupo social y sobre las que hay un acuerdo básico"_. Se puede decir que los estereotipos funcionan como un agente activo que facilita el ordenamiento y la comprensión de la información, en otras palabras, nos ayudan a comprender el mundo de manera simplificada, ordenada, coherente. Asimismo, los estereotipos contribuyen  a la formación de la categorización social, en relación a esto, Tajfel H. (1984), menciona que los estereotipos son necesidades individuales de organización del medio, cuya función es comprender los acontecimientos para justificar los comportamientos frente a otro grupo (justificación social), clarificando o acentuando las diferencias, afín de establecer una distinción positiva en favor del propio grupo. 
 
 ## Antecedentes
 
@@ -17,7 +17,7 @@ modelos e hipótesis_](https://dialnet.unirioja.es/servlet/articulo?codigo=47949
 
 **Figura 1**. Representación grafica de los estereotipos de género normalizados sobre una persona o un grupo. Imagen tomada de 
 
-\_[Cómo puedes desafiar los estereotipos de género-Universidad de los Andes](https://decanaturadeestudiantes.uniandes.edu.co/como-puedes-desafiar-los-estereotipos-de-genero)\_
+\_[Cómo puedes desafiar los estereotipos de género-Universidad de los Andes]\_ (https://decanaturadeestudiantes.uniandes.edu.co/como-puedes-desafiar-los-estereotipos-de-genero)
 
 
  
