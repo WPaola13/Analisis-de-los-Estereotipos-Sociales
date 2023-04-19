@@ -44,7 +44,8 @@ modelos e hipótesis_](https://dialnet.unirioja.es/servlet/articulo?codigo=47949
 Algunos ejemplos que evidencian los estereotipos sociales en nuestra sociedad son:
 
 - La utilización de "**memes**", esta tendencia normalizada en las distintas redes sociales en ocasiones llegan a convertirse en micro expresiones de xenofobia y discriminacion entre comunidades, aunque muchas de ellas son tomadas con un humor dentro de la sociedad, es cierto que también gran parte de ellas alimentan los ideales de superioridad de diversos endogrupos, ocasionando así hostilidad entre los grupos sociales.
-- Por otro lado, se observa cómo los estereotipos se aprenden a través del proceso de socialización y su transmisión se produce de diversas formas, tal es el caso del "**género en los colores**", en relación a esto, el color rosado comenzó a ser asociado con el género recién a finales del siglo XIX y principios del siglo XX, en esta época las madres utilizaban el color rosa para vestir a sus hijos y celeste para las niñas, ya que el rosado era considerado un color que reflejaba decisión y fortaleza, lo que lo hacía más adecuado para el género masculino y el azul era considerado ideal para niñas ya que era más delicado y refinado. Posterior a esto, el estereotipo de que el rosa es femenino se definió tras el fin de la Segunda Guerra Mundial, y la generación post guerra creció con este estereotipo. 
+
+- De igual manera, se observa cómo los estereotipos se aprenden a través del proceso de socialización y su transmisión se produce de diversas formas, tal es el caso del "**género en los colores**", en relación a esto, el color rosado comenzó a ser asociado con el género recién a finales del siglo XIX y principios del siglo XX, en esta época las madres utilizaban el color rosa para vestir a sus hijos y celeste para las niñas, ya que el rosado era considerado un color que reflejaba decisión y fortaleza, lo que lo hacía más adecuado para el género masculino y el azul era considerado ideal para niñas ya que era más delicado y refinado. Posterior a esto, el estereotipo de que el rosa es femenino se definió tras el fin de la Segunda Guerra Mundial, y la generación post guerra creció con este estereotipo. 
 
 Los ejemplos anteriores, permiten observar como una vez formados y adquiridos los estereotipos, se convierten en estructuras rígidas difíciles de modifica, además, reafirma la teoria de que las personas tendemos a  estereotipar de forma automática o sesgada, por lo tanto los estereotipos funcionan no solo a nivel explícito sino también implícito, asimismo, siempre serán  parte activa de nuestro proceso de socialización e  interrelaciones personales.
 
@@ -52,9 +53,9 @@ Los ejemplos anteriores, permiten observar como una vez formados y adquiridos lo
 
 Atenas, T. L, Ciampi Díaz, E, Venegas Bustos, J; Uribe San Martín, R. y Cárcamo Rodríguez, C. (2019). Cognición Social: Conceptos y Bases Neurales. Revista chilena de neuro-psiquiatría, 57(4), 365-376. https://dx.doi.org/10.4067/S0717-92272019000400365
 
-Bazán, J. (2019). Moda y estereotipos: Rosa y celeste: por qué estos colores identificaron durante décadas a nenas y varones. Clarín.Sociedad. Recuperado de [](https://www.clarin.com/sociedad/rosa-celeste-colores-identificaron-decadas-nenas-varones_0_l7RaCUoxn.html)
+Bazán, J. (2019). Moda y estereotipos: Rosa y celeste: por qué estos colores identificaron durante décadas a nenas y varones. Clarín.Sociedad. Recuperado de https://www.clarin.com/sociedad/rosa-celeste-colores-identificaron-decadas-nenas-varones_0_l7RaCUoxn.html
 
-Castejón Costa, J. L. (2016). Psicología y Educación: Presente y Futuro. Construcción de género y estereotipos. Un estudio de las actitudes hacia la diversidad de género Alicante: ACIPE, 868-877. Recuperado de [](https://rua.ua.es/dspace/bitstream/10045/63764/1/Psicologia-y-educacion_102.pdf)
+Castejón Costa, J. L. (2016). Psicología y Educación: Presente y Futuro. Construcción de género y estereotipos. Un estudio de las actitudes hacia la diversidad de género Alicante: ACIPE, 868-877. Recuperado de https://rua.ua.es/dspace/bitstream/10045/63764/1/Psicologia-y-educacion_102.pdf
 
 Gómez, A. (2006). Sí mismo e identidad social. En A. Gómez, E. Gaviria & I. Fernández (Coords.), Psicología social (pp. 231-295). Madrid: Sanz y Torres.
 
@@ -62,13 +63,13 @@ Mackie, M.M. (1973). «Arriving at Truth by Definition: Case of Stereotype Innac
 
 Morris, Ch. y Maisto, A. (2005). Introducción a la Psicología. Ciudad de México: Prentis Hall.
 
-Mitjana, L. R., & Mitjana, L. R. (2019, 15 marzo). La Teoría de la Identidad Social: características y postulados. Teoría de la Identidad Social. [](https://psicologiaymente.com/social/teoria-identidad-social)
+Mitjana, L. R., & Mitjana, L. R. (2019, 15 marzo). La Teoría de la Identidad Social: características y postulados. Teoría de la Identidad Social. https://psicologiaymente.com/social/teoria-identidad-social
 
-Nazar, G. y Figueroa, Carolina A. (2015). Creencias estereotípicas sobre el desempeño laboral de los trabajadores mayores en Chile. Psicoperspectivas, 14(1), 114-125. Recuperado de [](https://dx.doi.org/10.5027/psicoperspectivas-Vol14-Issue1-fulltext-435)
+Nazar, G. y Figueroa, Carolina A. (2015). Creencias estereotípicas sobre el desempeño laboral de los trabajadores mayores en Chile. Psicoperspectivas, 14(1), 114-125. Recuperado de https://dx.doi.org/10.5027/psicoperspectivas-Vol14-Issue1-fulltext-435
 
-Palos, J. (5/3/2018). Identidad y sentimientos de pertenencia. Convivencia y educación en valores. [](https://eldiariodelaeducacion.com/)
+Palos, J. (5/3/2018). Identidad y sentimientos de pertenencia. Convivencia y educación en valores. https://eldiariodelaeducacion.com/
 
-Regader, B. (2015).Qué es la psicología social. Psicología y mente. Disponible en [](https://psicologiaymente.com/social/psicologia-social)
+Regader, B. (2015).Qué es la psicología social. Psicología y mente. Disponible en https://psicologiaymente.com/social/psicologia-social
 
 Smith Castro, V. (2006).La psicología social de las relaciones intergrupales. Actualidades en Psicología,  
 20(107), 45-71
