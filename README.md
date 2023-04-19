@@ -58,7 +58,7 @@ Atenas, T. L, Ciampi Díaz, E, Venegas Bustos, J; Uribe San Martín, R. y Cárca
 
 Bazán, J. (2019). Moda y estereotipos: Rosa y celeste: por qué estos colores identificaron durante décadas a nenas y varones. Clarín.Sociedad. Recuperado de[(https://www.clarin.com/sociedad/rosa-celeste-colores-identificaron-decadas-nenas-varones_0_l7RaCUoxn.html)]
 
-Castejón Costa, J. L. (2016). Psicología y Educación: Presente y Futuro. Construcción de género y estereotipos. Un estudio de las actitudes hacia la diversidad de género Alicante: ACIPE, 868-877. [Recuperado de](https://rua.ua.es/dspace/bitstream/10045/63764/1/Psicologia-y-educacion_102.pdf)
+Castejón Costa, J. L. (2016). Psicología y Educación: Presente y Futuro. Construcción de género y estereotipos. Un estudio de las actitudes hacia la diversidad de género Alicante: ACIPE, 868-877. Recuperado de [https://rua.ua.es/dspace/bitstream/10045/63764/1/Psicologia-y-educacion_102.pdf](https://rua.ua.es/dspace/bitstream/10045/63764/1/Psicologia-y-educacion_102.pdf)
 
 Gómez, A. (2006). Sí mismo e identidad social. En A. Gómez, E. Gaviria & I. Fernández (Coords.), Psicología social (pp. 231-295). Madrid: Sanz y Torres.
 
@@ -76,7 +76,4 @@ Regader, B. (2015).Qué es la psicología social. Psicología y mente. [Disponib
 
 Smith Castro, V. (2006).La psicología social de las relaciones intergrupales. Actualidades en Psicología,  
 20(107), 45-71
-
-This is [an example](http://example.com/ "Title") inline link.
-
 
