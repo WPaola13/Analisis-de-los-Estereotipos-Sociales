@@ -66,13 +66,13 @@ Mackie, M.M. (1973). «Arriving at Truth by Definition: Case of Stereotype Innac
 
 Morris, Ch. y Maisto, A. (2005). Introducción a la Psicología. Ciudad de México: Prentis Hall.
 
-Mitjana, L. R., & Mitjana, L. R. (2019, 15 marzo). La Teoría de la Identidad Social: características y postulados. Teoría de la Identidad Social. [](https://psicologiaymente.com/social/teoria-identidad-social)
+Mitjana, L. R., & Mitjana, L. R. (2019, 15 marzo). La Teoría de la Identidad Social: características y postulados. Teoría de la Identidad Social. [https://psicologiaymente.com/social/teoria-identidad-social](https://psicologiaymente.com/social/teoria-identidad-social)
 
-Nazar, G. y Figueroa, Carolina A. (2015). Creencias estereotípicas sobre el desempeño laboral de los trabajadores mayores en Chile. Psicoperspectivas, 14(1), 114-125. [Recuperado de](https://dx.doi.org/10.5027/psicoperspectivas-Vol14-Issue1-fulltext-435)
+Nazar, G. y Figueroa, Carolina A. (2015). Creencias estereotípicas sobre el desempeño laboral de los trabajadores mayores en Chile. Psicoperspectivas, 14(1), 114-125. Recuperado de [https://dx.doi.org/10.5027/psicoperspectivas-Vol14-Issue1-fulltext-435](https://dx.doi.org/10.5027/psicoperspectivas-Vol14-Issue1-fulltext-435)
 
 Palos, J. (5/3/2018). Identidad y sentimientos de pertenencia. Convivencia y educación en valores. 
 
-Regader, B. (2015).Qué es la psicología social. Psicología y mente. [Disponible en](https://psicologiaymente.com/social/psicologia-social)
+Regader, B. (2015).Qué es la psicología social. Psicología y mente. Disponible en [https://psicologiaymente.com/social/psicologia-social](https://psicologiaymente.com/social/psicologia-social)
 
 Smith Castro, V. (2006).La psicología social de las relaciones intergrupales. Actualidades en Psicología,  
 20(107), 45-71
