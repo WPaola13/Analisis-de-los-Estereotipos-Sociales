@@ -77,3 +77,6 @@ Regader, B. (2015).Qué es la psicología social. Psicología y mente. [Disponib
 Smith Castro, V. (2006).La psicología social de las relaciones intergrupales. Actualidades en Psicología,  
 20(107), 45-71
 
+This is [an example](http://example.com/ "Title") inline link.
+
+[This link](http://example.net/) has no title attribute.
