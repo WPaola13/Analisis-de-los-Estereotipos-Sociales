@@ -27,7 +27,7 @@ modelos e hipótesis_](https://dialnet.unirioja.es/servlet/articulo?codigo=47949
 
  Para comprender mejor el contexto de los estereotipos y su presencia en las personas, es necesario conocer cómo influye la identidad social en estos, siendo más específicos como influye el sentimiento de pertenencia en ella. La teoría de la identidad social sugiere que las personas tienden a maximizar su autoestima, identificándose o concordando con los grupos sociales específicos a los que pertenecen, intentando ser incluidos y valorados de forma positiva, en comparación a los otros grupos. Es aquí donde, de acuerdo a Gomez (2006), entre la categorización como la tendencia de dividir el mundo en el endogrupo y los exogrupos.
 
-![Identidad social](https://user-images.githubusercontent.com/129440797/232949870-ca92f3c3-bf55-4ed5-b7da-63ced898e62b.jpeg)]
+![Identidad social](https://user-images.githubusercontent.com/129440797/232949870-ca92f3c3-bf55-4ed5-b7da-63ced898e62b.jpeg)
 
 **Figura 2**.Representación gráfica del término identidad social.
 
@@ -67,7 +67,7 @@ Mitjana, L. R., & Mitjana, L. R. (2019, 15 marzo). La Teoría de la Identidad So
 
 Nazar, G. y Figueroa, Carolina A. (2015). Creencias estereotípicas sobre el desempeño laboral de los trabajadores mayores en Chile. Psicoperspectivas, 14(1), 114-125. Recuperado de https://dx.doi.org/10.5027/psicoperspectivas-Vol14-Issue1-fulltext-435
 
-Palos, J. (5/3/2018). Identidad y sentimientos de pertenencia. Convivencia y educación en valores. https://eldiariodelaeducacion.com/
+Palos, J. (5/3/2018). Identidad y sentimientos de pertenencia. Convivencia y educación en valores. 
 
 Regader, B. (2015).Qué es la psicología social. Psicología y mente. Disponible en https://psicologiaymente.com/social/psicologia-social
 
