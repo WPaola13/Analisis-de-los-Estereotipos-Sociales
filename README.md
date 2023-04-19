@@ -1,4 +1,4 @@
-# Análisis de los Estereotipos Sociales 
+# Análisis de los Estereotipos Sociales  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Desde tiempos inmemorables, el fenómeno de los estereotipos, ha estado presente en nuestra sociedad, Mackie (1973) los define como _"creencias populares sobre los atributos que caracterizan a un grupo social y sobre las que hay un acuerdo básico"_. Se puede decir que los estereotipos funcionan como un agente activo que facilita el ordenamiento y la comprensión de la información, en otras palabras, nos ayudan a comprender el mundo de manera simplificada, ordenada, coherente. 
 
