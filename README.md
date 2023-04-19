@@ -66,7 +66,7 @@ Mackie, M.M. (1973). «Arriving at Truth by Definition: Case of Stereotype Innac
 
 Morris, Ch. y Maisto, A. (2005). Introducción a la Psicología. Ciudad de México: Prentis Hall.
 
-Mitjana, L. R., & Mitjana, L. R. (2019, 15 marzo). La Teoría de la Identidad Social: características y postulados. Teoría de la Identidad Social. [https://psicologiaymente.com/social/teoria-identidad-social](https://psicologiaymente.com/social/teoria-identidad-social)
+Mitjana, L. R., & Mitjana, L. R. (2019, 15 marzo). La Teoría de la Identidad Social: características y postulados. Teoría de la Identidad Social.Recuperado de [https://psicologiaymente.com/social/teoria-identidad-social](https://psicologiaymente.com/social/teoria-identidad-social)
 
 Nazar, G. y Figueroa, Carolina A. (2015). Creencias estereotípicas sobre el desempeño laboral de los trabajadores mayores en Chile. Psicoperspectivas, 14(1), 114-125. Recuperado de [https://dx.doi.org/10.5027/psicoperspectivas-Vol14-Issue1-fulltext-435](https://dx.doi.org/10.5027/psicoperspectivas-Vol14-Issue1-fulltext-435)
 
