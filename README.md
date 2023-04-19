@@ -15,7 +15,7 @@ modelos e hipótesis_](https://dialnet.unirioja.es/servlet/articulo?codigo=47949
                                                  
 ![](https://decanaturadeestudiantes.uniandes.edu.co/sites/default/files/Deportes/Banner/Diversidad/como-puedes-desafiar-los-estereotipos-de-genero-640x480.jpg)
 
-**Figura 1**. Representación gráfica de los estereotipos de género normalizados sobre una persona o un grupo. Imagen tomada de [Cómo puedes desafiar los estereotipos de género-Universidad de los Andes](https://decanaturadeestudiantes.uniandes.edu.co/como-puedes-desafiar-los-estereotipos-de-genero)
+**Figura 1**. Representación gráfica de los estereotipos de género normalizados sobre una persona o un grupo. Imagen tomada del artículo  ["_Cómo puedes desafiar los estereotipos de género-Universidad de los Andes_"](https://decanaturadeestudiantes.uniandes.edu.co/como-puedes-desafiar-los-estereotipos-de-genero)
 
   En relación a esto, con los estereotipos se da una búsqueda de una identidad positiva que fomente la visión positiva de nuestro grupo en comparación con los otros -produciéndose **_“favoritismo endogrupal”_**.  También nos permite justificar acciones  contra otros grupos, esto lo podemos analizar tambien desde la psicología social, ya que esta se encarga de  analizar los procesos de índole psicológica que influyen en el modo en que funciona una sociedad, así como la forma en que se llevan a cabo las interacciones sociales. Es decir, que son los procesos sociales los que modulan la personalidad y las características de cada persona
 
