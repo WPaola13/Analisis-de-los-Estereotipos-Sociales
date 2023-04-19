@@ -54,7 +54,7 @@ Los ejemplos anteriores, permiten observar como una vez formados y adquiridos lo
 
 ## Referencias Bibliográficas
 
-Atenas, T. L, Ciampi Díaz, E, Venegas Bustos, J; Uribe San Martín, R. y Cárcamo Rodríguez, C. (2019). Cognición Social: Conceptos y Bases Neurales. Revista chilena de neuro-psiquiatría, 57(4), 365-376.[][https://dx.doi.org/10.4067/S0717-92272019000400365]
+Atenas, T. L, Ciampi Díaz, E, Venegas Bustos, J; Uribe San Martín, R. y Cárcamo Rodríguez, C. (2019). Cognición Social: Conceptos y Bases Neurales. Revista chilena de neuro-psiquiatría, 57(4), 365-376.[https://dx.doi.org/10.4067/S0717-92272019000400365](https://dx.doi.org/10.4067/S0717-92272019000400365)
 
 Bazán, J. (2019). Moda y estereotipos: Rosa y celeste: por qué estos colores identificaron durante décadas a nenas y varones. Clarín.Sociedad. Recuperado de[(https://www.clarin.com/sociedad/rosa-celeste-colores-identificaron-decadas-nenas-varones_0_l7RaCUoxn.html)]
 
@@ -79,4 +79,4 @@ Smith Castro, V. (2006).La psicología social de las relaciones intergrupales. A
 
 This is [an example](http://example.com/ "Title") inline link.
 
-[This link](http://example.net/) has no title attribute.
+
