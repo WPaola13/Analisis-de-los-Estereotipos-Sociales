@@ -13,15 +13,22 @@ modelos e hipótesis_](https://dialnet.unirioja.es/servlet/articulo?codigo=47949
   
    Los estereotipos desempeñan una función primordial para la socialización del individuo, su papel como valor funcional y adaptativo permite comprender el mundo de manera simplificada, ordenada, coherente, asimismo, facilita la identidad social y la conciencia de pertenecer a un grupo, el hecho de aceptar e identificarse con los estereotipos dominantes en dicho grupo es una manera de permanecer integrado en él. Otra de las funciones sociales de los estereotipos es que nos permiten ordenar y estructurar la percepción a través de la categorización, es decir, a los grupos y a las personas: les etiquetamos y les agrupamos en tipos según sus características en diversas categorías. 
                                                  
-![Engelbart|50](https://decanaturadeestudiantes.uniandes.edu.co/sites/default/files/Deportes/Banner/Diversidad/como-puedes-desafiar-los-estereotipos-de-genero-640x480.jpg)
+![](https://decanaturadeestudiantes.uniandes.edu.co/sites/default/files/Deportes/Banner/Diversidad/como-puedes-desafiar-los-estereotipos-de-genero-640x480.jpg)
 
-**Figura 1**. Representación grafica de los estereotipos de género normalizados sobre una persona o un grupo. Imagen tomada de \_[Cómo puedes desafiar los estereotipos de género-Universidad de los Andes]\_ (https://decanaturadeestudiantes.uniandes.edu.co/como-puedes-desafiar-los-estereotipos-de-genero)
+**Figura 1**. Representación grafica de los estereotipos de género normalizados sobre una persona o un grupo. Imagen tomada de [Cómo puedes desafiar los estereotipos de género-Universidad de los Andes](https://decanaturadeestudiantes.uniandes.edu.co/como-puedes-desafiar-los-estereotipos-de-genero)
 
   En relación a esto, con los estereotipos se da una búsqueda de una identidad positiva que fomente la visión positiva de nuestro grupo en comparación con los otros -produciéndose **_“favoritismo endogrupal”_**.  También nos permite justificar acciones  contra otros grupos, esto lo podemos analizar tambien desde la psicología social, ya que esta se encarga de  analizar los procesos de índole psicológica que influyen en el modo en que funciona una sociedad, así como la forma en que se llevan a cabo las interacciones sociales. Es decir, que son los procesos sociales los que modulan la personalidad y las características de cada persona
 
 Para  Regader (2015):
-> Para  Regader (2015) la psicología social tiene como objeto de estudio, la influencia de las relaciones sociales sobre la conducta y los estados mentales de las personas.
-> En este sentido, la psicología social estudia los procesos psicológicos y sociales observables, lo cual ayuda a entender cómo actuamos los individuos cuando formamos parte de grupos o sociedades. La psicología social también engloba el estudio de las actitudes personales y la influencia (bidireccional) con el pensamiento social.
+> "_la psicología social tiene como objeto de estudio, la influencia de las relaciones sociales sobre la conducta y los estados mentales de las personas.
+> En este sentido, la psicología social estudia los procesos psicológicos y sociales observables, lo cual ayuda a entender cómo actuamos los individuos cuando formamos parte de grupos o sociedades. La psicología social también engloba el estudio de las actitudes personales y la influencia (bidireccional) con el pensamiento social_".
+
+## Identidad Social
+
+Para comprender mejor el contexto de los estereotipos y su presencia en las personas, es necesario conocer cómo influye la identidad social en estos, siendo más específicos como influye el sentimiento de pertenencia en ella. La teoría de la identidad social sugiere que las personas tienden a maximizar su autoestima, identificándose o concordando con los grupos sociales específicos a los que pertenecen, intentando ser incluidos y valorados de forma positiva, en comparación a los otros grupos. Es aquí donde, de acuerdo a Gomez (2006), entre la categorización como la tendencia de dividir el mundo en el endogrupo y los exogrupos.
+
+![Identidad social](https://www.psicoadapta.es/blog/wp-content/uploads/2020/10/identidad-social-I-.jpg)
+
 
 MACKIE, M.M. (1973): «Arriving at Truth by Definition:
 Case of Stereotype Innacuracy», en Social Problems, 20;
